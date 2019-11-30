@@ -28,6 +28,7 @@ console.log(space2 + star2);
 }   
     
 
+/// FIX THIS
 
     /*let star2 = "";
     for (let k=0; k<lineCount; k++) {    
